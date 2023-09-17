@@ -1,0 +1,7 @@
+C:\Users\Alien\source\repos\BackupRestoreDB\BackupRestoreDB\bin\Release\net7.0-windows\publish\win-x64\BackupRestoreDB.exe
+C:\Users\Alien\source\repos\BackupRestoreDB\BackupRestoreDB\bin\Release\net7.0-windows\publish\win-x64\BackupRestoreDB.dll
+C:\Users\Alien\source\repos\BackupRestoreDB\BackupRestoreDB\bin\Release\net7.0-windows\publish\win-x64\BackupRestoreDB.deps.json
+C:\Users\Alien\source\repos\BackupRestoreDB\BackupRestoreDB\bin\Release\net7.0-windows\publish\win-x64\BackupRestoreDB.runtimeconfig.json
+C:\Users\Alien\source\repos\BackupRestoreDB\BackupRestoreDB\bin\Release\net7.0-windows\publish\win-x64\BackupRestoreDB.pdb
+C:\Users\Alien\source\repos\BackupRestoreDB\BackupRestoreDB\bin\Release\net7.0-windows\publish\win-x64\System.Data.SqlClient.dll
+C:\Users\Alien\source\repos\BackupRestoreDB\BackupRestoreDB\bin\Release\net7.0-windows\publish\win-x64\sni.dll
