@@ -76,7 +76,7 @@ namespace BackupRestoreDB
 
             T_Server.Text = "(LocalDB)\\MSSQLLocalDB";
 
-            T_DataBase.Text = "MileStone";
+            T_DataBase.Text = "MedicalVideoRecorder";
 
             T_User.Text = "Alien";
 
